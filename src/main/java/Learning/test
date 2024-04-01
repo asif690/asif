@@ -83,3 +83,13 @@ long --> float, double
 float --> double
 
 
+class 03/31/2024
+=============================
+
+1) Incremental operators (++)  (Post/Pre)
+2) Decremental operators (--) (Post/Pre)
+
+// these operators are used for increasing or decreasing the value by 1.
+
+// When you use pre-inc it adds the value before assigning it to a new variable.
+
