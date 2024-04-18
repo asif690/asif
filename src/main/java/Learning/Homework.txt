@@ -1,0 +1,5 @@
+HomeWork - 04/17/2024
+- Run the code in your local system and try to play around with different values
+- You already know two way to create infinite loop in java. Try to find out when to use what
+- int raffleNumber = random.nextInt(99) + 1;  // This will generate the random numbers between 1 - 99 (Why we added one here ?)
+

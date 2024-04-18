@@ -5,11 +5,24 @@ import java.util.Scanner;
 public class WhileExample {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int number;
+        int count = 1;
 
-        do{
-            System.out.println("Enter a positive number");
+        // This is just to show how to create an infinite loop in Java using while
+        //        while(true){ // an Infinite loop
+        //            System.out.println("Current count is : " + count);
+        //            count++; // this will increment the value by 1;
+        //        }
+
+        //        for (;;) {
+        //            System.out.println("Congratulations, you have just created an infinite loop");
+        //        }
+
+
+        while(count <=10){
+            System.out.println("Current count is : " + count);
+            count++; // this will increment the value by 1;
         }
+        System.out.println();
+        System.out.println("Loop Finished, Good Bye !! ");
     }
 }
