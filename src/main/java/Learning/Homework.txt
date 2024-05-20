@@ -3,3 +3,17 @@ HomeWork - 04/17/2024
 - You already know two way to create infinite loop in java. Try to find out when to use what
 - int raffleNumber = random.nextInt(99) + 1;  // This will generate the random numbers between 1 - 99 (Why we added one here ?)
 
+
+
+
+@Override
+@SuppressWarnings
+@Deprecated
+@SafeVarargs
+@FunctionalInterface
+@Native
+
+
+// Super and this keywords
+// Constructor
+// Do more examples of inheritance and Overriding the methods
